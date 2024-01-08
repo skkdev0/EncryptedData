@@ -1,1 +1,1 @@
-showMessage("this message from server");
+android.showMessage("this message from server");
